@@ -29,7 +29,7 @@ scissors = '''
 
 import random
 images=[rock,paper,scissors]
-user_choice=int(input("What do you want to choose?Type 0 for rack or 1 for paper and 2 for scissors"))
+user_choice=int(input("What do you want to choose?\nType 0 for rock or 1 for paper and 2 for scissors:- \n"))
 computer_choice=random.randint(0,2)
 
 if user_choice>=3 or user_choice<0:
@@ -50,4 +50,3 @@ else:
         print("You lose")
     elif computer_choice==user_choice:
         print("Its a draw!")
-
