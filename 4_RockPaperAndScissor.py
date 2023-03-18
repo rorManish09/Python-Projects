@@ -25,7 +25,7 @@ scissors = '''
 ---.__(___)
 '''
 
-#Write your code below this line 👇
+
 
 import random
 images=[rock,paper,scissors]
