@@ -9,10 +9,10 @@ In This Repository I am Going to put python projects form  Beginner to advance l
 
 4.RockPaperAndScissor Link:-https://replit.com/@rorManish09/RockPaperScissor?v=1
 
-5_RandomPasswordGenerator
+5_RandomPasswordGenerator Link:-https://replit.com/@rorManish09/Random-Password-generator?v=1
 
-6.EscapingTheMaze
+6.EscapingTheMaze Link:-
 
-7.Hangman
+7.Hangman Link:-https://replit.com/@rorManish09/Hangman?v=1
 
 8.Caesar Cipher
