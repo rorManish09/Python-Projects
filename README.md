@@ -11,7 +11,7 @@ In This Repository I am Going to put python projects form  Beginner to advance l
 
 5_RandomPasswordGenerator Link:-https://replit.com/@rorManish09/Random-Password-generator?v=1
 
-6.EscapingTheMaze Link:-
+6.EscapingTheMaze Link:-https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json
 
 7.Hangman Link:-https://replit.com/@rorManish09/Hangman?v=1
 
