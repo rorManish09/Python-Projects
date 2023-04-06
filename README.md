@@ -32,3 +32,5 @@ In This Repository I am Going to put python projects form  Beginner to advance l
 15.Coffee Machine  Link:-https://replit.com/@rorManish09/CoffeeMachine?v=1
 
 16.CoffeeMachine using OOPs Link:- https://replit.com/@rorManish09/Coffee-Machine-using-OOPs?v=1
+
+17.Quiz Link:-https://replit.com/@rorManish09/Quiz?v=1
