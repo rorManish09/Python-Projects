@@ -47,3 +47,4 @@ In This Repository I am Going to put python projects form  Beginner to advance l
 
 23.Mail Merge
 
+24.US state quiz Link:- https://replit.com/@rorManish09/USstateQuiz?v=1
