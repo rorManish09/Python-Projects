@@ -49,9 +49,7 @@ In This Repository I am Going to put python projects form  Beginner to advance l
 
 24.US state quiz Link:- https://replit.com/@rorManish09/USstateQuiz?v=1
 
-25.NATO Alphabet Link:- /home/manishror09/PycharmProjects/pythonProject/NATO_Aphabet/main.py
+25.NATO Alphabet Link:- https://replit.com/@rorManish09/NATOAphabet?v=1
 
-/home/manishror09/PycharmProjects/pythonProject/NATO_Aphabet/nato_phonetic_alphabet.csv
-
-26.Miles to Kilomete Link:-
+26.Miles to Kilomete Link:- https://replit.com/@rorManish09/Miles-To-Kilometer?v=1
 
