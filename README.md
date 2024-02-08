@@ -53,4 +53,6 @@ In This Repository I am Going to put python projects form  Beginner to advance l
 
 26.Miles to Kilomete Link:- https://replit.com/@rorManish09/Miles-To-Kilometer?v=1  
 
+27.Password manager:- https://replit.com/@rorManish09/Password-Manager?v=1
 
+28.Pomodoro:- https://replit.com/@rorManish09/Pomodoro?v=1
