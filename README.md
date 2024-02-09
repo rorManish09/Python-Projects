@@ -56,3 +56,5 @@ In This Repository I am Going to put python projects form  Beginner to advance l
 27.Password manager:- https://replit.com/@rorManish09/Password-Manager?v=1
 
 28.Pomodoro:- https://replit.com/@rorManish09/Pomodoro?v=1
+
+29.Flash Card:- https://replit.com/@rorManish09/Flash-Card?v=1
