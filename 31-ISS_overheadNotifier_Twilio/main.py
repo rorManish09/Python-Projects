@@ -6,7 +6,7 @@ from twilio.rest import Client
 account_sid = "YOUR TWILIO ACC SID"
 auth_token = "YOUR TWILIO AUTH TOKEN"
 
-
+#get twilio api from setting an account TWILIO
 
 api_key = "YOUR TWILIO API KEY"
 
