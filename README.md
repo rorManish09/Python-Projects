@@ -62,3 +62,5 @@ In This Repository I am Going to put python projects form  Beginner to advance l
 30.Internation space Station Position:- https://replit.com/@rorManish09/ISSPosition?v=1
 
 31.ISS overheadNotifier Using Twilio API:- https://replit.com/@rorManish09/ISS-OverheadNotifer-Twilio-Messeging?v=1
+
+32.StockNews Notifier :- https://replit.com/@rorManish09/Stock-News-Notifer?v=1
