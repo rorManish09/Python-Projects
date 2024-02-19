@@ -3,8 +3,8 @@ from datetime import date
 
 today = date.today().strftime('%Y%m%d')
 
-TOKEN = "yagefgfyabsvasdhhsa"
-USERNAME = "mr000001"
+TOKEN = "YOUR TOKEN"
+USERNAME = "Your username"
 user_parameters = {
 
     "token": TOKEN ,
