@@ -4,7 +4,7 @@ from datetime import date
 today = date.today().strftime('%Y%m%d')
 
 TOKEN = "YOUR TOKEN"
-USERNAME = "Your username"
+USERNAME = "YOUR USERNAME"
 user_parameters = {
 
     "token": TOKEN ,
@@ -34,6 +34,7 @@ graph_parameter = {
     "color":"kuro",
     "timezone":"UTC"
 }
+#-----COMMAND TO CREATE GRAPH-----#
 
 # graph_link = f"https://pixe.la/v1/users/{USERNAME}/graphs"
 #
@@ -41,7 +42,7 @@ graph_parameter = {
 #
 # print(new_response.text)
 #
-
+#-----COMMAND TO POST A PIXEL-----# 
 # postAPixel_endpoint=f"https://pixe.la/v1/users/{USERNAME}/graphs/{GRAPHID}"
 #
 # pixel_parameter = {
@@ -53,12 +54,13 @@ graph_parameter = {
 #
 # print(response.text)
 
-update_pixel = f"https://pixe.la/v1/users/{USERNAME}/graphs/{GRAPHID}/{today}"
+#------COMMAND TO UPDATE A PIXEL------#
+# update_pixel = f"https://pixe.la/v1/users/{USERNAME}/graphs/{GRAPHID}/{today}"
 
-update_parameter ={
-    "quantity": "3"
-}
+# update_parameter ={
+#     "quantity": "3"
+# }
 
-response = requests.put(url=update_pixel, json=update_parameter,headers=member )
+# response = requests.put(url=update_pixel, json=update_parameter,headers=member )
 
-print(response.text)
+# print(response.text)
