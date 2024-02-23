@@ -68,3 +68,5 @@ In This Repository I am Going to put python projects form  Beginner to advance l
 33.Habit Tracker :-https://replit.com/@rorManish09/Habit-Tracker?v=1
 
 34.Cookie clicker Bot:-https://replit.com/@rorManish09/Cookie-clicker-bot?v=1
+
+35.Automatic job follow on linkedin :- https://replit.com/@rorManish09/Automatic-job-follow-on-LinkedIn?v=1
