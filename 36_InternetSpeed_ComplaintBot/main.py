@@ -1,3 +1,5 @@
+#This code works for twitter verison 2024 feb
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
@@ -5,9 +7,9 @@ from selenium.common.exceptions import NoSuchElementException
 import time
 DOWN_SPEED_UPTO = 100
 UP_SPEED_UPTO = 20
-TWITTER_EMAIL = "manishror009@gmail.com"
-TWITTER_PASSWORD = "(W,:sbGzNt.23J7"
-TWITTER_USERNAME = '@ManishC27726818'
+TWITTER_EMAIL = "Your user id either email or number"
+TWITTER_PASSWORD = "Your Password"
+TWITTER_USERNAME = 'Your User name'
 
 class InternetSpeedTwitterBot:
 
