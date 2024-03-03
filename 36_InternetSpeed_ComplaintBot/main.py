@@ -9,7 +9,7 @@ DOWN_SPEED_UPTO = 100
 UP_SPEED_UPTO = 20
 TWITTER_EMAIL = "Your user id either email or number"
 TWITTER_PASSWORD = "Your Password"
-TWITTER_USERNAME = 'Your User name'
+TWITTER_USERNAME = 'Your Username'
 
 class InternetSpeedTwitterBot:
 
