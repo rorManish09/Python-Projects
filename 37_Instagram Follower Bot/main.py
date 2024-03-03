@@ -36,7 +36,8 @@ class InstaFollowwer:
             login_btn = self.driver.find_element(By.XPATH,'/html/body/div[2]/div/div/div[2]/div/div/div[1]/section/main/article/div[2]/div[1]/div[2]/form/div/div[3]/button')
             login_btn.click()
         except NoSuchElementException:
-            print("This program works only for version 2024 feb of Insta web")
+            print("This program works only for version 2024 feb of Insta web: Mail me to update code
+            ")
 
         #Not now
         time.sleep(10)
